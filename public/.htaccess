@@ -1,6 +1,6 @@
 If Åg%{HTTP_HOST} != Åeexample.com'Åh
-DirectoryIndex index.html ../index.php
-AuthUserFile ../.htpassword
+DirectoryIndex public/index.html index.php
+AuthUserFile .htpasswd
 AuthType Basic
 AuthName ÅgRestricted AccessÅh
 Require valid-user
