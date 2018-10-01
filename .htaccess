@@ -1,6 +1,0 @@
-If Åg%{HTTP_HOST} != Åeexample.com'Åh
-DirectoryIndex public/index.html index.php
-AuthUserFile /app/.htpasswd
-AuthType Basic
-AuthName ÅgRestricted AccessÅh
-Require valid-user
