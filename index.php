@@ -1,5 +1,5 @@
 <?php
-
+/*
 function require_auth() {
     $AUTH_USER = 'ojies';
     $AUTH_PASS = 'ojies';
@@ -20,6 +20,6 @@ function require_auth() {
 
 require_auth();
 
-
+*/
 	header('Location: /public/index.html');
 ?>
