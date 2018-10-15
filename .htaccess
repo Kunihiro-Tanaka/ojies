@@ -1,4 +1,4 @@
-﻿<Files ~ "^\.(htaccess|htpasswd)$">
+<Files ~ "^\.(htaccess|htpasswd)$">
 deny from all
 </Files>
 AuthUserFile /app/.htpasswd
